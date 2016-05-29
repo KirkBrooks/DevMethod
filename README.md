@@ -12,6 +12,8 @@ Download the repo to your computer.
 ## How to use it
 Call DEV_SHOW_methodExplorer.
 
+![DevMethod screenshot](https://github.com/KirkBrooks/DevMethod/blob/master/images/ss1.png)
+
 The dialog opens showing a listbox of the methods in the host database. The initial view is hierarchical. If you have named your methods so that the beginning of the method name is a module followed by an underscore (eg. DEV_SHOW_methodExplorer) the characters in front of the first underscore are used to group methods.
 
 The listbox columns are the group, method name, modification date and check boxes for the various method attributes.
@@ -19,6 +21,8 @@ The listbox columns are the group, method name, modification date and check boxe
 **Clicking the checkboxes changes the method attribute immediately!**
 
 You can toggle the listbox hierarchy with the Toggle Hier button. Turning off the hierarchy is useful if you wanted to sort your methods by modification date.
+
+![DevMethod screenshot](https://github.com/KirkBrooks/DevMethod/blob/master/images/ss2.png)
 
 Double click a method to open it for editing.
 
